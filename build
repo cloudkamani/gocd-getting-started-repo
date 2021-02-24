@@ -4,3 +4,9 @@ echo "Let us pretend that this is building something ... and takes 20 seconds"
 
 
 echo "hello srini"
+
+cat /etc/os-release
+
+date > todays_date.txt
+
+uname -a
