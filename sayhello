@@ -1,4 +1,6 @@
 #!/bin/bash
 
+echo "todays date is----"
+date
 echo "Hello World"
 echo "Hello Srini"
