@@ -1,0 +1,5 @@
+apt update
+apt install apache2
+systemctl is-active apache2
+systemctl is-enabled apache2
+systemctl status apache2
