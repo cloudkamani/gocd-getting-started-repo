@@ -1,0 +1,2 @@
+echo $PROJECT_NAME
+echo $GO_SERVER_URL
